@@ -1,5 +1,8 @@
 _repo: Vambery-Armin-vazlatai-Kozep-Azsiabol-Ujabb-adalekok-az-oxusmelleki-orszagok-nepismereti-tars__66741
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vámbéry, Ármin
@@ -16,6 +19,8 @@ creator:
     - https://hu.wikipedia.org/wiki/V%C3%A1mb%C3%A9ry_%C3%81rmin
     - https://en.wikipedia.org/wiki/%C3%81rmin_V%C3%A1mb%C3%A9ry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66741#Vambery-Armin-vazlatai-Kozep-Azsiabol-Ujabb-adalekok-az-oxusmelleki-orszagok-nepismereti-tars_
 gutenberg_issued: '2021-11-15'
 identifiers:
   gutenberg: '66741'
